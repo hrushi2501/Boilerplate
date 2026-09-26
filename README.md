@@ -1,11 +1,6 @@
-# PraviAI — Ultimate Universal Hackathon Insurance Repository
+# Ultimate Universal Hackathon Insurance Repository
 
 A production-quality, hackathon-ready universal foundation designed to eliminate boilerplate fatigue so you can immediately build and ship your product.
-
-Whether your hackathon challenge is a standard B2B SaaS, an interactive dashboard, an AI chatbot, a RAG system, multi-agent workflows, multimodal document intelligence, real-time voice streaming, or classical machine learning, **PraviAI provides the pre-architected, zero-debt foundation**.
-
-Repository: [https://github.com/hrushi2501/PraviAI](https://github.com/hrushi2501/PraviAI)  
-Live Deployment: [https://praviai.vercel.app](https://praviai.vercel.app)
 
 ---
 
@@ -18,31 +13,6 @@ CLONE  ──►  CONFIGURE ENV  ──►  START BUILDING
 **Not:** `CLONE ──► UNDERSTAND A MASSIVE FRAMEWORK ──► START BUILDING`
 
 The repository is lightweight and completely usable for a normal non-AI hackathon without bloat, while offering modular plug-and-play skills and architecture for advanced AI and machine learning when required.
-
----
-
-## 🚀 Hackathon Quick Start (Ship in Minutes)
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/hrushi2501/PraviAI.git
-cd PraviAI
-
-# 2. Install dependencies with Bun
-bun install
-
-# 3. Configure environment variables
-cp .env.example .env.local
-# Open .env.local and add your Clerk, Supabase, and service credentials
-
-# 4. Push database tables (rapid mode)
-bun run db:push
-
-# 5. Start development server
-bun run dev
-```
-
-Visit [http://localhost:3000](http://localhost:3000) for the landing page shell, and [http://localhost:3000/dashboard](http://localhost:3000/dashboard) to build your product.
 
 ---
 
@@ -86,7 +56,7 @@ The AI stack is architected into 5 progressive levels. You only activate what yo
 ## 🏛 System Architecture
 
 ```text
-                     PRAVIAI
+                   Boilerplate
                         │
              ┌──────────┴──────────┐
              │                     │
