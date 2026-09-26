@@ -2,7 +2,8 @@
 
 A production-ready, batteries-included Next.js hackathon boilerplate designed to eliminate setup fatigue so you can immediately start building your product.
 
-Repository: [https://github.com/hrushi2501/PraviAI](https://github.com/hrushi2501/PraviAI)
+Repository: [https://github.com/hrushi2501/PraviAI](https://github.com/hrushi2501/PraviAI)  
+Live Deployment: [https://praviai.vercel.app](https://praviai.vercel.app)
 
 ---
 
